@@ -1,4 +1,4 @@
-# Logistic_regression_Matlab
+# Logistic_regression_AcclerometerData
 
 Multinomial Logistic Regression with 10 fold cross validation on the accelerometer data and performance evaluation. 
 
